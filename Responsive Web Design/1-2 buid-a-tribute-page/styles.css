@@ -1,0 +1,54 @@
+body {
+  background-color: rgb(238,238,238);
+  
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  padding-top: 20px;
+}
+
+header {
+  font-family: Times New Roman;
+  text-align: center;
+}
+
+header > p {
+  font-size: 20px;
+}
+
+header > h1 {
+  font-size: 85px;
+  font-weight: 50px;
+  padding-top: 20px;
+  margin-bottom: 0;
+}
+
+#img-div {
+  background-color: rgb(222,222,222);
+  
+}
+
+#tribute-last {
+  text-align: center;
+  font-weight: bold;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#tribute-info li {
+  font-family: sans-serif;
+  padding: 10px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#description {
+  text-align: center;
+  font-weight: bold;
+}

@@ -1,1 +1,55 @@
-a
+*{
+  color: 85A389;
+  
+}
+body {
+  background-color: F1C27B;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  background-color: FFD89C;
+  font-size: 20px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+h1{
+  font-size: 45px;
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+div {
+  margin-top: 10px;
+}
+
+input, select {
+  display:block;
+}
+
+#name, #email{
+  padding: 15px 220px;
+}
+
+#dropdown {
+  padding: 15px 235px;
+}
+#number {
+  padding: 16px 268px;
+}
+
+label {
+  text-align: left;
+}
+
+.choice, .check-project {
+  display: inline-block;
+  margin-left: 50px;
+}
